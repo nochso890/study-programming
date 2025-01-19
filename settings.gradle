@@ -1,0 +1,3 @@
+rootProject.name = 'study-programming'
+include 'study-java'
+
